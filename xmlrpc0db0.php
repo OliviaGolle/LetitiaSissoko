@@ -2,13 +2,13 @@
   <service>
     <engineName>WordPress</engineName>
     <engineLink>https://wordpress.org/</engineLink>
-    <homePageLink>https://sophiekerboul.com</homePageLink>
+    <homePageLink>https://oliviagolle.github.io/LetitiaSissoko/</homePageLink>
     <apis>
-      <api name="WordPress" blogID="1" preferred="true" apiLink="https://sophiekerboul.com/xmlrpc.php" />
-      <api name="Movable Type" blogID="1" preferred="false" apiLink="https://sophiekerboul.com/xmlrpc.php" />
-      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://sophiekerboul.com/xmlrpc.php" />
-      <api name="Blogger" blogID="1" preferred="false" apiLink="https://sophiekerboul.com/xmlrpc.php" />
-      	<api name="WP-API" blogID="1" preferred="false" apiLink="https://sophiekerboul.com/?rest_route=/" />
+      <api name="WordPress" blogID="1" preferred="true" apiLink="https://oliviagolle.github.io/LetitiaSissoko/xmlrpc.php" />
+      <api name="Movable Type" blogID="1" preferred="false" apiLink="https://oliviagolle.github.io/LetitiaSissoko/xmlrpc.php" />
+      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://oliviagolle.github.io/LetitiaSissoko/xmlrpc.php" />
+      <api name="Blogger" blogID="1" preferred="false" apiLink="https://oliviagolle.github.io/LetitiaSissoko/xmlrpc.php" />
+      	<api name="WP-API" blogID="1" preferred="false" apiLink="https://oliviagolle.github.io/LetitiaSissoko/?rest_route=/" />
 	    </apis>
   </service>
 </rsd>
